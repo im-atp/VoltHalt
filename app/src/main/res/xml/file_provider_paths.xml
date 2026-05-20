@@ -1,0 +1,13 @@
+<?xml version="1.0" encoding="utf-8"?>
+<paths>
+    <!--
+        Expose the app's external cache directory so the copied APK can be
+        shared via a content:// URI. Required on Android 7+ (FileProvider).
+    -->
+    <external-cache-path
+        name="shared_apk"
+        path="." />
+    <cache-path
+        name="shared_apk_internal"
+        path="." />
+</paths>
