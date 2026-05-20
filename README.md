@@ -208,6 +208,4 @@ SOFTWARE.
 
 **If VoltHalt saved your battery, give it a ⭐ — it really helps!**
 
-Made with ❤️ in India
-
 </div>
