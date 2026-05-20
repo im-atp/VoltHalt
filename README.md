@@ -6,12 +6,12 @@
 
 **Stop overcharging. Set your target. VoltHalt does the rest.**
 
-[![Release](https://img.shields.io/github/v/release/YOUR_USERNAME/VoltHalt?color=F5A623&label=Download&logo=android)](https://github.com/YOUR_USERNAME/VoltHalt/releases/latest)
+[![Release](https://img.shields.io/github/v/release/im-atp/VoltHalt?color=F5A623&label=Download&logo=android)](https://github.com/im-atp/VoltHalt/releases/latest)
 [![License: MIT](https://img.shields.io/badge/License-MIT-yellow.svg)](LICENSE)
 [![Android](https://img.shields.io/badge/Android-8.0%2B-brightgreen?logo=android)](https://developer.android.com)
 [![Kotlin](https://img.shields.io/badge/Kotlin-1.9-blueviolet?logo=kotlin)](https://kotlinlang.org)
 [![Jetpack Compose](https://img.shields.io/badge/Jetpack%20Compose-2024-blue?logo=jetpackcompose)](https://developer.android.com/jetpack/compose)
-[![Stars](https://img.shields.io/github/stars/YOUR_USERNAME/VoltHalt?style=social)](https://github.com/YOUR_USERNAME/VoltHalt/stargazers)
+[![Stars](https://img.shields.io/github/stars/im-atp/VoltHalt?style=social)](https://github.com/im-atp/VoltHalt/stargazers)
 
 </div>
 
@@ -45,7 +45,7 @@
 
 <div align="center">
 
-### [Download Latest APK](https://github.com/YOUR_USERNAME/VoltHalt/releases/latest)
+### [Download Latest APK](https://github.com/im-atp/VoltHalt/releases/latest)
 
 </div>
 
@@ -78,7 +78,7 @@
 
 ```bash
 # 1. Clone the repository
-git clone https://github.com/YOUR_USERNAME/VoltHalt.git
+git clone https://github.com/im-atp/VoltHalt.git
 
 # 2. Open in Android Studio
 # File → Open → select the VoltHalt folder
@@ -155,20 +155,11 @@ Contributions are always welcome! Here's how to get started:
 4. Push to your fork: `git push origin feature/your-feature-name`
 5. Open a **Pull Request**
 
-### Ideas for contributions
-- [ ] Scheduled alarm (e.g., "alarm only between 10 PM and 6 AM")
-- [ ] Multiple charge targets with different alarm sounds
-- [ ] Wear OS companion app
-- [ ] Translations / localization
-- [ ] Widget for home screen
-
-Please read [CONTRIBUTING.md](CONTRIBUTING.md) before submitting a PR.
-
 ---
 
 ## Found a Bug?
 
-[Open an issue](https://github.com/YOUR_USERNAME/VoltHalt/issues/new) and include:
+[Open an issue](https://github.com/im-atp/VoltHalt/issues/new) and include:
 - Your Android version
 - Device model
 - Steps to reproduce the bug
@@ -181,7 +172,7 @@ Please read [CONTRIBUTING.md](CONTRIBUTING.md) before submitting a PR.
 ```
 MIT License
 
-Copyright (c) 2026 YOUR NAME
+Copyright (c) 2026 Ananthu T P
 
 Permission is hereby granted, free of charge, to any person obtaining a copy
 of this software and associated documentation files (the "Software"), to deal
