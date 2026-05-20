@@ -17,35 +17,35 @@
 
 ---
 
-## 📖 What is VoltHalt?
+## What is VoltHalt?
 
 **VoltHalt** is a free, open-source Android app that monitors your battery level in the background and plays a loud alarm the moment your phone reaches your chosen charge percentage. Unlike manufacturer battery limits, VoltHalt works on **any Android 8.0+ device** without root.
 
-> 🔋 Battery health experts recommend keeping lithium-ion batteries between **20% and 80%** for maximum lifespan. VoltHalt makes this effortless.
+> Battery health experts recommend keeping lithium-ion batteries between **20% and 80%** for maximum lifespan. VoltHalt makes this effortless.
 
 ---
 
-## ✨ Features
+## Features
 
 | Feature | Description |
 |---------|-------------|
-| 🎯 **Custom Charge Target** | Set any percentage from 1–99% as your alarm trigger |
-| 🔊 **Max Volume Alarm** | Forces maximum speaker volume so you always hear it |
-| 📱 **Full-Screen Alert** | Alarm screen wakes your phone even when locked |
-| ⚡ **Quick Settings Tile** | Toggle the alarm directly from your notification shade |
-| 🔄 **Auto-Dismiss** | Alarm screen closes automatically when you unplug |
-| 🚀 **Boot Persistence** | Service restarts automatically after device reboot |
-| 🔋 **Battery Optimized** | Requests battery optimization exemption for reliability |
-| 📤 **Share APK** | Share the app directly with friends from within the app |
-| 🌙 **Material 3 UI** | Clean, modern dark-mode interface built with Jetpack Compose |
+| **Custom Charge Target** | Set any percentage from 1–99% as your alarm trigger |
+| **Max Volume Alarm** | Forces maximum speaker volume so you always hear it |
+| **Full-Screen Alert** | Alarm screen wakes your phone even when locked |
+| **Quick Settings Tile** | Toggle the alarm directly from your notification shade |
+| **Auto-Dismiss** | Alarm screen closes automatically when you unplug |
+| **Boot Persistence** | Service restarts automatically after device reboot |
+| **Battery Optimized** | Requests battery optimization exemption for reliability |
+| **Share APK** | Share the app directly with friends from within the app |
+| **Material 3 UI** | Clean, modern dark-mode interface built with Jetpack Compose |
 
 ---
 
-## 📲 Download
+## Download
 
 <div align="center">
 
-### [⬇️ Download Latest APK](https://github.com/YOUR_USERNAME/VoltHalt/releases/latest)
+### [Download Latest APK](https://github.com/YOUR_USERNAME/VoltHalt/releases/latest)
 
 </div>
 
@@ -55,7 +55,7 @@
 
 ---
 
-## 🛠️ Tech Stack
+## Tech Stack
 
 - **Language**: [Kotlin](https://kotlinlang.org/)
 - **UI**: [Jetpack Compose](https://developer.android.com/jetpack/compose) + [Material 3](https://m3.material.io/)
@@ -67,7 +67,7 @@
 
 ---
 
-## 🚀 Build from Source
+## Build from Source
 
 ### Requirements
 - Android Studio Hedgehog (2023.1.1) or newer
@@ -98,7 +98,7 @@ git clone https://github.com/YOUR_USERNAME/VoltHalt.git
 
 ---
 
-## 📁 Project Structure
+## Project Structure
 
 ```
 VoltHalt/
@@ -127,7 +127,7 @@ VoltHalt/
 
 ---
 
-## 🔐 Permissions Explained
+## Permissions Explained
 
 VoltHalt requests only what it truly needs:
 
@@ -141,11 +141,11 @@ VoltHalt requests only what it truly needs:
 | `WAKE_LOCK` | Wake the CPU to fire the alarm reliably |
 | `USE_FULL_SCREEN_INTENT` | Show alarm screen over the lock screen (Android 14+) |
 
-> ⚠️ VoltHalt does **not** access the internet, your contacts, location, camera, or microphone.
+> ⚠️VoltHalt does **not** access the internet, your contacts, location, camera, or microphone.
 
 ---
 
-## 🤝 Contributing
+## Contributing
 
 Contributions are always welcome! Here's how to get started:
 
@@ -166,7 +166,7 @@ Please read [CONTRIBUTING.md](CONTRIBUTING.md) before submitting a PR.
 
 ---
 
-## 🐛 Found a Bug?
+## Found a Bug?
 
 [Open an issue](https://github.com/YOUR_USERNAME/VoltHalt/issues/new) and include:
 - Your Android version
@@ -176,7 +176,7 @@ Please read [CONTRIBUTING.md](CONTRIBUTING.md) before submitting a PR.
 
 ---
 
-## 📄 License
+## License
 
 ```
 MIT License
