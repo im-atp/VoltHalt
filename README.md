@@ -28,4 +28,20 @@ An Android app that monitors your battery level and plays an alarm when it reach
 
 ## Getting Started
 
-1. Clone this repository:
+1. Clone this repository: git clone https://github.com/im-atp/VoltHalt.git
+2. Open the project in **Android Studio**
+3. Let Gradle sync finish
+4. Build and run on your device or emulator
+
+## License
+
+This project is licensed under the MIT License — see the [LICENSE](LICENSE) file for details.
+
+## Contributing
+
+Contributions, issues and feature requests are welcome!  
+Feel free to check the [issues page](https://github.com/im-atp/VoltHalt.git/issues).
+
+## Show your support
+
+Give a ⭐ if this project helped you!
