@@ -41,6 +41,19 @@
 
 ---
 
+## Screenshots 
+
+<p>
+  <img width="250" alt="dark 1" src="https://github.com/user-attachments/assets/44804b54-ecc4-4764-875a-63c0df1d580b" />
+  <img width="250" alt="darl 2" src="https://github.com/user-attachments/assets/f08b3507-4198-4f2a-8682-a49c48a14664" />
+</p>
+<p>
+  <img width="250" alt="light 1" src="https://github.com/user-attachments/assets/d07dcb69-3857-4f3e-954c-cb306ab3720b" />
+  <img width="250" alt="light 2" src="https://github.com/user-attachments/assets/f5b1b29e-3dc9-4d3f-82fe-c23b563f083f" />
+</p>
+
+---
+
 ## Download
 
 <div align="center">
